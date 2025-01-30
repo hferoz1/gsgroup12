@@ -1,4 +1,4 @@
-package gsgroup12.src.backend;
+package app;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

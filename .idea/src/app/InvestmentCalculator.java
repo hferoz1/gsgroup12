@@ -1,4 +1,4 @@
-package gsgroup12.src.backend;
+package app;
 import java.util.Scanner;
 
 public class InvestmentCalculator {
@@ -23,6 +23,6 @@ public class InvestmentCalculator {
     }
 }
 //Enter mutual fund ticker (e.g., VFIAX): VFIAX
-//Enter your initial investment amount: 200000
+//Enter your initiaal investment amount: 200000
 //Enter the investment duration in years: 3
 //The future value of your investment is: $269971.76

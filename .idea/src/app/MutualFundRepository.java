@@ -1,7 +1,5 @@
-package gsgroup12.src.backend;
-
-import java.util.ArrayList;
 import java.util.List;
+import java.util.ArrayList;
 
 public class MutualFundRepository {
     public static List<MutualFund> getHardcodedFunds() {

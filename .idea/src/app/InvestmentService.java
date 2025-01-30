@@ -1,4 +1,4 @@
-package gsgroup12.src.backend;
+package app;
 
 public class InvestmentService {
     private static final double DEFAULT_BETA = 1.0;

@@ -1,4 +1,4 @@
-package gsgroup12.src.backend;
+package app;
 
 public class MutualFund {
     private int id;
